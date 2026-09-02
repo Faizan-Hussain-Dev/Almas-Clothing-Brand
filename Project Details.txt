@@ -1,0 +1,8 @@
+Project CS519 : Almas Clothing Brand
+
+Database Name : clothingbrand_db.sql
+
+Admin Details:
+ 
+Username: admin, Password: admin123 (Main admin)
+Username: Faizan, Password: 1027761Asdf@ (Sub admin)
