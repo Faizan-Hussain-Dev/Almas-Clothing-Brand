@@ -41,6 +41,7 @@ I developed a fully functional eCommerce website that provides:
 • Bootstrap
 • PHP
 • MySQL
+• Python (For Chatbot ),RAG
 
 🏆 Key Achievement:
 
