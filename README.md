@@ -1,6 +1,9 @@
-# Almas Clothing Brand Ecommerce Store 
+# Almas Clothing Brand Ecommerce Store
+
 🎉 Alhamdulillah! Another milestone unlocked!
-I’m excited to share that I have successfully completed my Final Year Project for my Associate Degree in Computer Science 🚀
+
+I’m excited to share that I have successfully completed my Final Year Project for my Associate Degree in Computer Science.
+
 👔 Project Title: Almas Clothing Brand
 🛒 Domain: Web Development
 💡 Idea: A complete eCommerce store focused on men’s clothing collection
