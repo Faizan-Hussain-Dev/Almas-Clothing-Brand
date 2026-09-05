@@ -17,13 +17,21 @@ Many small clothing brands struggle to build a professional online presence with
 💻 My Solution:
 
 I developed a fully functional eCommerce website that provides:
+
 • User-friendly product browsing & listing
+
 • Add to Cart 🛍️ functionality
+
 • Smart billing & checkout system
+
 • payment method selection 💳
+
 • Order tracking system 📦
+
 • Email confirmation for orders 📧
+
 • Complete Admin Panel with CRUD operations
+
 • AI Based Chatbot for Almas Clothing Brand 
 
 🛠️ Tech Stack:
@@ -37,11 +45,17 @@ I developed a fully functional eCommerce website that provides:
 🏆 Key Achievement:
 
 Secured A+ Grade in Project Course (CS519) 🎯
+
 ⚡ Key Challenges I Overcame:
+
 • Managing dynamic product listings
+
 • Implementing cart & billing logic
+
 • Designing a smooth checkout flow
+
 • Building a complete admin dashboard
+
 • Integrating order tracking & email system
 
 This project helped me strengthen my skills in full-stack web development and gave me real-world problem-solving experience 💡
